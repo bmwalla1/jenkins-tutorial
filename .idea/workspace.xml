@@ -33,13 +33,22 @@
       <recent name="C:\Users\xris\Desktop\Winter 2020\Cs 340\IntelljProjects\JenkinsCalculator\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorTest.createUniqueIDTest">
+  <component name="RunManager" selected="JUnit.CalculatorTestThorough">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTestThorough" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JenkinsCalculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTestThorough" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,6 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CalculatorTestThorough" />
         <item itemvalue="JUnit.CalculatorTest.createUniqueIDTest" />
         <item itemvalue="JUnit.CalculatorTest.intToBinaryNumberTest" />
         <item itemvalue="JUnit.CalculatorTest.fibonacciTest" />
@@ -105,7 +115,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581191690472</updated>
-      <workItem from="1645107611759" duration="1062000" />
+      <workItem from="1645107611759" duration="1588000" />
     </task>
     <task id="LOCAL-00001" summary="create intellij project">
       <created>1645107768143</created>
